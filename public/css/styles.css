@@ -146,8 +146,7 @@ article:hover{
 
 
 article{
-  width: 80vw;
-  height: 420px;
+  width: 80%;
   display: flex;
   justify-content: center;  
   margin: 2%;  
@@ -273,10 +272,9 @@ footer i:hover{
 }        
 
 
-
 article{
-    width: 35vw;
-    height: 310px;
+    width: 40%;
+
 }        
 
 }
@@ -304,9 +302,8 @@ article{
         }        
         
         article{
-            width: 20vw;
-            height: 390px;
-        }        
+            width: 20%;
+          }        
       
         .top-footer{
             display: flex;
