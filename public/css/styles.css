@@ -276,6 +276,7 @@ footer i:hover{
 
 article{
     width: 35vw;
+    height: 310px;
 }        
 
 }
@@ -304,6 +305,7 @@ article{
         
         article{
             width: 20vw;
+            height: 390px;
         }        
       
         .top-footer{
